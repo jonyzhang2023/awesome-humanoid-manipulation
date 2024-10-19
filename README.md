@@ -18,21 +18,21 @@ Recent months witnessed teleoperation-based humanoid learning becoming a main ap
 
  ## Papers
 
-### 2024
+### Humanoid Robot Manipulation
 
-- [2024] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 
-- [2024] BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark [**benchmark**] [[project](https://chernyadev.github.io/bigym)] [[paper](https://arxiv.org/abs/2407.07788)] [[code](https://github.com/YanjieZe/Humanoid-Teleoperation)]
+- [2024.07] BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark [**benchmark**] [[project](https://chernyadev.github.io/bigym)] [[paper](https://arxiv.org/abs/2407.07788)] [[code](https://github.com/YanjieZe/Humanoid-Teleoperation)]
 
-- [2024] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
+- [2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
-### 2023
+- [2023.09] [**Humanoid**] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation [**imitation**] [**Tele-Opreation**] [[paper](https://arxiv.org/pdf/2309.01952.pdf)] [[project](https://ut-austin-rpl.github.io/TRILL/)] [[code](https://github.com/UT-Austin-RPL/TRILL)]
 
-- [**Humanoid**] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation [**imitation**] [**Tele-Opreation**] [[paper](https://arxiv.org/pdf/2309.01952.pdf)] [[project](https://ut-austin-rpl.github.io/TRILL/)] [[code](https://github.com/UT-Austin-RPL/TRILL)]
+### Bimanual Dexterous Robot Manipulation
 
 
 
 ## Related awesome-lists
 
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
-
+- [awesome-bimanual-manipulation]([https://github.com/jonyzhang2023/awesome-humanoid-learning](https://github.com/Skylark0924/awesome-bimanual-manipulation))
