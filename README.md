@@ -19,7 +19,7 @@ Recent months witnessed animated and simulated humanoids becoming a main approac
 
 ### Humanoid Robot Manipulation
 
-- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[project]([https://robot-tv.github.io/)])] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 
 - [2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback [**Teleop**] [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)] [[code](https://github.com/OpenTeleVision/TeleVision)]
 
@@ -27,7 +27,7 @@ Recent months witnessed animated and simulated humanoids becoming a main approac
 
 - [2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
-- [2023.09] [**Humanoid**] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation [**imitation**] [**Teleop**] [[paper](https://arxiv.org/pdf/2309.01952.pdf)] [[project](https://ut-austin-rpl.github.io/TRILL/)] [[code](https://github.com/UT-Austin-RPL/TRILL)]
+- [2023.09] [**Humanoid**] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation [**imitation**] [**Teleop**] [[project](https://ut-austin-rpl.github.io/TRILL/)] [[paper](https://arxiv.org/pdf/2309.01952.pdf)] [[code](https://github.com/UT-Austin-RPL/TRILL)]
 
 ### Bimanual Dexterous Robot Manipulation
 
