@@ -2,14 +2,12 @@
 
 This repo contains a curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. 
 
-_Note 1_: Given the relevance between humanoid manipulation and dual dexterous hand manipulation, we include some works on dual dexterous hand manipulation.
-
-_Note 2_: Simulated humanoid animation have become a main approach for coordinated manipulation, thus is also included.
+_Note_: We included papers from two relevant areas: 1) Bimanual multi-fingered manipulation 2) humanoid manipulation in physically based animation.
 
 ---
 
 ## Contents
-- [Humanoids](#Humanoids)
+- [Humanoid Models](#Humanoids)
 - [Workshops](#Workshops)
 - [Papers](#Papers)
   - [Humanoid Robot Manipulation](#HumanoidRobotManipulation)
@@ -19,7 +17,7 @@ _Note 2_: Simulated humanoid animation have become a main approach for coordinat
 
 <a name="Humanoids" />
 
-## Humanoids
+## Humanoid Models
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
