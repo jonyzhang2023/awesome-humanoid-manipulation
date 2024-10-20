@@ -84,8 +84,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**imitation**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
  
-- [2024.07] DexCap: Scalable and Portable Mocap Data
-Collection System for Dexterous Manipulation [**imitation**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)][[code](https://github.com/Dingry/BunnyVisionPro)]
+- [2024.07] Bunny-Vision Pro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning [**imitation**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)][[code](https://github.com/Dingry/BunnyVisionPro)]
 
 - [2024.03] DexCap: Scalable and Portable Mocap Data
 Collection System for Dexterous Manipulation [**imitation**] [[project](https://dex-cap.github.io/)] [[paper](https://arxiv.org/abs/2403.07788)][[code](https://github.com/j96w/DexCap)]
