@@ -51,8 +51,6 @@ _Note_: We also included papers on two relevant topics: 1) Bimanual multi-finger
 
 CORL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applications in Humanoids and Beyond](https://wcbm-workshop.github.io/)]
 
-ECCV 2024 [[1st Workshop on Cooperative Intelligence for Embodied AI](https://coop-intelligence.github.io/)]
-
 <a name="Papers" />
 
 ## Papers
