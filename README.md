@@ -1,10 +1,31 @@
-# awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
-A curated list of resources on humanoid manipuation, or humanoid robot-object interaction).
+This repo contains a curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. 
+
+```
+- Contribution is highly welcome and feel free to pull request or contact me.
+```
+
+If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️.
+
+---
 
 Note 1: Given the relevance between humanoid manipulation and dual dexterous hand manipulation, we include some works on dual dexterous hand manipulation.
 
 Note 2: Simulated humanoid animation have become a main approach for coordinated manipulation, thus is also included.
+
+---
+
+## Contents
+- [Humanoids](#Humanoids)
+- [Workshops](#Workshops)
+- [Papers](#Papers)
+  - [Humanoid Robot Manipulation](#HumanoidRobotManipulation)
+  - [Bimanual Dexterous Multi-Fingered Manipulation](#BimanualDexterousMulti-FingeredManipulation)
+  - [Physically Simulated Humanoid Animations](#PhysicallySimulatedHumanoidAnimations)
+
+
+<a name="Humanoids" />
 
 ## Humanoids
 
@@ -14,15 +35,21 @@ Note 2: Simulated humanoid animation have become a main approach for coordinated
 | G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | GR-1 | FFTAI | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/master/GRX/GR1) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 
+<a name="Workshops" />
+
 ## Workshops
 
 CORL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applications in Humanoids and Beyond](https://wcbm-workshop.github.io/)]
 
 ECCV 2024 [[1st Workshop on Cooperative Intelligence for Embodied AI](https://coop-intelligence.github.io/)]
 
+<a name="Papers" />
+
 ## Papers
 
 YYYY.MM is the month when the paper appears on arxiv.org (if available).
+
+<a name="HumanoidRobotManipulation" />
 
 ### Humanoid Robot Manipulation
 
@@ -43,6 +70,8 @@ YYYY.MM is the month when the paper appears on arxiv.org (if available).
 - [2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
 
+<a name="BimanualDexterousMulti-FingeredManipulation" />
+
 ### Bimanual Dexterous Multi-Fingered Manipulation
 
 - [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**imitation**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
@@ -55,10 +84,10 @@ Collection System for Dexterous Manipulation [**imitation**] [**teleop**] [[proj
  
 - [CORL 2024] Bimanual Dexterity for Complex Tasks [**imitation**] [**teleop**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
 
+
+<a name="PhysicallySimulatedHumanoidAnimations" />
+
 ### Physically Simulated Humanoid Animations
 
 - [2024.07] Grasping Diverse Objects with Simulated Humanoids [**rl**] [[project](https://www.zhengyiluo.com/Omnigrasp-Site/)] [[paper](https://arxiv.org/abs/2407.11385)]
 
-## Related awesome-lists
-
-- [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
