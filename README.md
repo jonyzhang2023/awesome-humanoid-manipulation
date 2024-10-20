@@ -1,14 +1,16 @@
 # awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 
-This repo contains a curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. 
+A curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. This repo is inspired by [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
 
 _Note_: We included papers from two relevant areas: 1) Bimanual multi-fingered manipulation 2) humanoid manipulation in physically based animation.
 
 ---
 
 ## Contents
-- [Humanoid Models](#Humanoids)
+- [Humanoid Models](#Models)
+  - [Humanoids](#Humanoids)
+  - [Dexterous Hands](#DexterousHands) 
 - [Workshops](#Workshops)
 - [Papers](#Papers)
   - [Humanoid Robot Manipulation](#HumanoidRobotManipulation)
@@ -16,15 +18,30 @@ _Note_: We included papers from two relevant areas: 1) Bimanual multi-fingered m
   - [Physically Simulated Humanoid Animations](#PhysicallySimulatedHumanoidAnimations)
 
 
+<a name="Models" />
+
+## Robot Models
+
 <a name="Humanoids" />
 
-## Humanoid Models
+### Humanoids
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | GR-1 | FFTAI | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/master/GRX/GR1) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
+
+
+<a name="DexterousHands" />
+
+### Dexterous Hands
+
+| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
+|------|-------|---------|---------|--------|----------|------------|
+| Ability Hand | PSYONIC, Inc. | [MJCF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF/mujoco), [URDF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF) | ✖️ | ✔️ | ✔️ | ✖️ |
+| Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
+
 
 <a name="Workshops" />
 
