@@ -1,9 +1,9 @@
 # awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 
-A curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. This repo is inspired by [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
+A curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. This repo is inspired by [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning).
 
-_Note_: We included papers from two relevant areas: 1) Bimanual multi-fingered manipulation 2) humanoid manipulation in physically based animation.
+_Note_: We also included papers from two relevant areas: 1) Bimanual multi-fingered manipulation 2) humanoid manipulation in physically based animation.
 
 ---
 
