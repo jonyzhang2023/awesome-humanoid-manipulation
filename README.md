@@ -1,5 +1,4 @@
-# awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+# awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 This repo contains a curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. 
 
