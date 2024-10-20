@@ -1,4 +1,4 @@
-# awesome-humanoid-Manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-humanoid-manipulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources relevant to humanoid-object interaction.
 
@@ -50,4 +50,4 @@ Collection System for Dexterous Manipulation [**imitation**] [**teleop**] [[proj
 ## Related awesome-lists
 
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
-- [awesome-bimanual-manipulation]([https://github.com/jonyzhang2023/awesome-humanoid-learning](https://github.com/Skylark0924/awesome-bimanual-manipulation))
+- [awesome-bimanual-manipulation]([https://github.com/Skylark0924/awesome-bimanual-manipulation])
