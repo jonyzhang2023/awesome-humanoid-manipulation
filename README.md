@@ -55,7 +55,7 @@ ECCV 2024 [[1st Workshop on Cooperative Intelligence for Embodied AI](https://co
 
 ## Papers
 
-YYYY.MM is the month when the paper appears on arxiv.org (if available).
+YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 <a name="HumanoidRobotManipulation" />
 
