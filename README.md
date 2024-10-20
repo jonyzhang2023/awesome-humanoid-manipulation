@@ -17,7 +17,7 @@ Recent months witnessed animated and simulated humanoids becoming a main approac
 
 ## Papers
 
-YYYY.MM is the time paper appearing on arxiv.org (if available).
+YYYY.MM is the time when papers appear on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
@@ -40,7 +40,7 @@ Collection System for Dexterous Manipulation [**imitation**] [**teleop**] [[proj
 
 - [2024.03] DexCap: Scalable and Portable Mocap Data
 Collection System for Dexterous Manipulation [**imitation**] [**teleop**] [[project](https://dex-cap.github.io/)] [[paper](https://arxiv.org/abs/2403.07788)][[code](https://github.com/j96w/DexCap)]
-- 
+ 
 - [CORL 2024] Bimanual Dexterity for Complex Tasks [**imitation**] [**teleop**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
 
 ### Physically Simulated Humanoid Animations
