@@ -19,7 +19,9 @@ Recent months witnessed animated and simulated humanoids becoming a main approac
 
 ### Humanoid Robot Manipulation
 
-- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[project]([https://robot-tv.github.io/)])] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+
+- [2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback [**Teleop**] [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)] [[code](https://github.com/OpenTeleVision/TeleVision)]
 
 - [2024.07] BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark [**benchmark**] [[project](https://chernyadev.github.io/bigym)] [[paper](https://arxiv.org/abs/2407.07788)] [[code](https://github.com/YanjieZe/Humanoid-Teleoperation)]
 
