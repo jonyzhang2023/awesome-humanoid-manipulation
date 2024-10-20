@@ -61,17 +61,17 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
-- [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**imitation**] [**teleop**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)] 
+- [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**imitation**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)] 
 
-- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [**imitation**] [**teleop**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [**imitation**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 
-- [2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback [**imitation**] [**teleop**] [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)] [[code](https://github.com/OpenTeleVision/TeleVision)]
+- [2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback [**imitation**] [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)] [[code](https://github.com/OpenTeleVision/TeleVision)]
 
 - [2024.07] GRUtopia: Dream General Robots in a City at Scale [**benchmark**] [[doc](https://grutopia.github.io/)] [[paper](https://arxiv.org/abs/2407.10943)] [[project&code](https://github.com/OpenRobotLab/GRUtopia)]
 
 - [2024.07] BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark [**benchmark**] [[project](https://chernyadev.github.io/bigym)] [[paper](https://arxiv.org/abs/2407.07788)] [[code](https://github.com/YanjieZe/Humanoid-Teleoperation)]
 
-- [2024.06] HumanPlus: Humanoid Shadowing and Imitation from Humans [**imitation**] [**teleop**] [[project](https://humanoid-ai.github.io/)] [[paper](https://arxiv.org/abs/2406.10454)] [[code](https://github.com/MarkFzp/humanplus)]
+- [2024.06] HumanPlus: Humanoid Shadowing and Imitation from Humans [**imitation**] [[project](https://humanoid-ai.github.io/)] [[paper](https://arxiv.org/abs/2406.10454)] [[code](https://github.com/MarkFzp/humanplus)]
 
 - [2024.06] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [**benchmark**] [[project](https://omni.human2humanoid.com/)] [[paper](https://arxiv.org/abs/2406.08858)] [[code](https://github.com/LeCAR-Lab/human2humanoid)]
 
@@ -85,17 +85,17 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 - [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**imitation**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
  
 - [2024.07] DexCap: Scalable and Portable Mocap Data
-Collection System for Dexterous Manipulation [**imitation**] [**teleop**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)][[code](https://github.com/Dingry/BunnyVisionPro)]
+Collection System for Dexterous Manipulation [**imitation**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)][[code](https://github.com/Dingry/BunnyVisionPro)]
 
 - [2024.03] DexCap: Scalable and Portable Mocap Data
-Collection System for Dexterous Manipulation [**imitation**] [**teleop**] [[project](https://dex-cap.github.io/)] [[paper](https://arxiv.org/abs/2403.07788)][[code](https://github.com/j96w/DexCap)]
+Collection System for Dexterous Manipulation [**imitation**] [[project](https://dex-cap.github.io/)] [[paper](https://arxiv.org/abs/2403.07788)][[code](https://github.com/j96w/DexCap)]
  
-- [CORL 2024] Bimanual Dexterity for Complex Tasks [**imitation**] [**teleop**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
+- [CORL 2024] Bimanual Dexterity for Complex Tasks [**imitation**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
 
 
 <a name="PhysicallySimulatedHumanoidAnimations" />
 
 ### Physically Simulated Humanoid Animations
 
-- [2024.07] Grasping Diverse Objects with Simulated Humanoids [**rl**] [[project](https://www.zhengyiluo.com/Omnigrasp-Site/)] [[paper](https://arxiv.org/abs/2407.11385)]
+- [2024.07] Grasping Diverse Objects with Simulated Humanoids [**reinforcement**] [[project](https://www.zhengyiluo.com/Omnigrasp-Site/)] [[paper](https://arxiv.org/abs/2407.11385)]
 
