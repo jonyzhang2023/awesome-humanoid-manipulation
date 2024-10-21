@@ -66,6 +66,10 @@ _Note_: We also included papers on the relevant topics:
 
 CORL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applications in Humanoids and Beyond](https://wcbm-workshop.github.io/)]
 
+<a name="Projects" />
+
+Lerobot [[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot)]
+
 <a name="Papers" />
 
 ## Papers
@@ -75,6 +79,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 <a name="HumanoidRobotManipulation" />
 
 ### Humanoid Robot Manipulation
+
+- [2024.10] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [**IL**] [[github](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
 
 - [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**IL**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)] 
 
