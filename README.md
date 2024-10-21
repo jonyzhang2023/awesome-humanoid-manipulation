@@ -5,7 +5,11 @@
 
 A curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. This repo is inspired by [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning).
 
-_Note_: We also included papers on two relevant topics: 1) Bimanual multi-fingered manipulation 2) humanoid or digital human manipulation in physically based animation.
+_Note_: We also included papers on the relevant topics: 
+
+1. Bimanual multi-fingered manipulation
+2. Dual-arm manipulation with other end effectors ([#1](https://github.com/Tsunami-kun/awesome-humanoid-manipulation/issues/1))
+3. humanoid or digital human manipulation in physically based animation.
 
 ---
 
@@ -17,7 +21,8 @@ _Note_: We also included papers on two relevant topics: 1) Bimanual multi-finger
 - [Papers](#Papers)
   - [Humanoid Robot Manipulation](#HumanoidRobotManipulation)
   - [Bimanual Dexterous Multi-Fingered Manipulation](#BimanualDexterousMulti-FingeredManipulation)
-  - [Physically Simulated Humanoid Animations](#PhysicallySimulatedHumanoidAnimations)
+  - [Dual-Arm Manipulation with Other End Effectors](#DualArmManipulationwithOtherEndEffectors)
+  - [Physically Simulated HOI Animations](#PhysicallySimulatedHumanoidAnimations)
 
 
 <a name="Models" />
@@ -45,6 +50,16 @@ _Note_: We also included papers on two relevant topics: 1) Bimanual multi-finger
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/shadow-robot/sr_common/tree/6fcee98982499a645c0812a89b6e70a920f2ed33/sr_description/mujoco_models) | BSD | ✔️ | ✔️ | ✔️ |
 | Shadow Hand | Shadow Robot | [URDF](https://github.com/shadow-robot/sr_common/tree/noetic-devel/sr_description/mujoco_models/urdfs), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 
+
+### Dual-Arm Robot
+
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
+| YuMi | ABB | [URDF](https://github.com/OrebroUniversity/yumi/tree/master/yumi_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
+| Dual iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/models/blob/master/iiwa_description/urdf/dual_iiwa14_polytope_collision.urdf), [Xacro](https://github.com/RobotLocomotion/models/blob/master/iiwa_description/urdf/dual_iiwa14_polytope_collision.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+
+
+
 <a name="Workshops" />
 
 ## Workshops
@@ -65,7 +80,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [**IL**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 
-- [2024.08] RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands [**IL**] [[project](https://rp1m.github.io/)] [[paper](https://arxiv.org/abs/2408.11048)] [[code] (https://github.com/google-research/robopianist)]
+- [2024.08] RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands [**IL**] [[project](https://rp1m.github.io/)] [[paper](https://arxiv.org/abs/2408.11048)] [[code](https://github.com/google-research/robopianist)]
 
 - [2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback [**IL**] [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)] [[code](https://github.com/OpenTeleVision/TeleVision)]
 
@@ -94,6 +109,16 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 Collection System for Dexterous Manipulation [**IL**] [[project](https://dex-cap.github.io/)] [[paper](https://arxiv.org/abs/2403.07788)][[code](https://github.com/j96w/DexCap)]
  
 - [CORL 2024] Bimanual Dexterity for Complex Tasks [**IL**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
+
+
+
+<a name="DualArmManipulationwithOtherEndEffectors" />
+
+### Dual-Arm Manipulation with Other End Effectors
+
+- [2024.09] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [**VLM**] [[project](https://rekep-robot.github.io/)] [[paper](https://rekep-robot.github.io/rekep.pdf)][[code](https://github.com/huangwl18/ReKep)]
+
+- [2024.01] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [**IL**] [[project](https://mobile-aloha.github.io/)] [[paper](http://arxiv.org/abs/2401.02117)][[code(learning)](https://github.com/MarkFzp/act-plus-plus)] [[code(hardware)](https://github.com/MarkFzp/mobile-aloha)]
 
 
 <a name="PhysicallySimulatedHumanoidAnimations" />
