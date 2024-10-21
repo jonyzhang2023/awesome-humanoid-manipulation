@@ -68,6 +68,8 @@ CORL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applicatio
 
 <a name="Projects" />
 
+## Projects
+
 Lerobot [[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot)]
 
 <a name="Papers" />
