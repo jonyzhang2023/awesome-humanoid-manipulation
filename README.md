@@ -38,7 +38,7 @@ _Note_: We also included papers on the relevant topics:
 | H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | GR-1 | FFTAI | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/master/GRX/GR1), [MJCF](https://github.com/FFTAI/wiki-mjcf/) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
-
+| Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl/tree/main/urdf) | ✖️ | ✔️ | ✔️ | ✔️ |
 
 <a name="DexterousHands" />
 
