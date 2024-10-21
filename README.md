@@ -16,8 +16,10 @@ _Note_: We also included papers on the relevant topics:
 ## Contents
 - [Humanoid Models](#Models)
   - [Humanoids](#Humanoids)
-  - [Dexterous Hands](#DexterousHands) 
+  - [Dexterous Hands](#DexterousHands)
+  - [Dual-Arm Robots](#DualArmRobots)
 - [Workshops](#Workshops)
+- [Projects](#Projects)
 - [Papers](#Papers)
   - [Humanoid Robot Manipulation](#HumanoidRobotManipulation)
   - [Bimanual Dexterous Multi-Fingered Manipulation](#BimanualDexterousMulti-FingeredManipulation)
@@ -50,8 +52,9 @@ _Note_: We also included papers on the relevant topics:
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/shadow-robot/sr_common/tree/6fcee98982499a645c0812a89b6e70a920f2ed33/sr_description/mujoco_models) | BSD | ✔️ | ✔️ | ✔️ |
 | Shadow Hand | Shadow Robot | [URDF](https://github.com/shadow-robot/sr_common/tree/noetic-devel/sr_description/mujoco_models/urdfs), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 
+<a name="DualArmRobots" />
 
-### Dual-Arm Robot
+### Dual-Arm Robots
 
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
@@ -108,7 +111,9 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 ### Bimanual Dexterous Multi-Fingered Manipulation
 
 - [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
- 
+
+- [2024.08] ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation [**teleop**] [[project](https://ace-teleop.github.io/)] [[paper](https://arxiv.org/abs/2408.11805)][[code](https://github.com/ACETeleop/ACETeleop)]
+   
 - [2024.07] Bunny-Vision Pro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning [**IL**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)][[code](https://github.com/Dingry/BunnyVisionPro)]
 
 - [2024.04] Learning Visuotactile Skills with Two Multifingered Hands [**IL**] [**touch**] [[project](https://toruowo.github.io/hato/)] [[paper](http://arxiv.org/abs/2404.16823)][[code](https://github.com/toruowo/hato)]
