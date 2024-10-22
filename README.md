@@ -129,6 +129,8 @@ Collection System for Dexterous Manipulation [**IL**] [[project](https://dex-cap
 
 ### Dual-Arm Manipulation with Other End Effectors
 
+- [2024.10] ALOHA Unleashed: A Simple Recipe for Robot Dexterity [**IL**] [[project](https://aloha-unleashed.github.io/)] [[paper](https://arxiv.org/abs/2410.13126)]
+
 - [2024.09] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [**VLM**] [[project](https://rekep-robot.github.io/)] [[paper](https://rekep-robot.github.io/rekep.pdf)][[code](https://github.com/huangwl18/ReKep)]
 
 - [2024.01] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [**IL**] [[project](https://mobile-aloha.github.io/)] [[paper](http://arxiv.org/abs/2401.02117)][[code(learning)](https://github.com/MarkFzp/act-plus-plus)] [[code(hardware)](https://github.com/MarkFzp/mobile-aloha)]
