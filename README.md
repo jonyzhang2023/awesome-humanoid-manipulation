@@ -144,6 +144,9 @@ Collection System for Dexterous Manipulation [**IL**] [[project](https://dex-cap
 
 - [2024.07] Grasping Diverse Objects with Simulated Humanoids [**RL**] [[project](https://www.zhengyiluo.com/Omnigrasp-Site/)] [[paper](https://arxiv.org/abs/2407.11385)]
 
+- [2024.06] Human-Object Interaction from Human-Level Instructions [**LLM**] [[project](https://hoifhli.github.io/)] [[paper](https://arxiv.org/abs/2406.17840)]
+
+
 - [2024.06] CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics [**RL**] [[project](https://gao-jiawei.com/Research/CooHOI/)] [[paper](https://arxiv.org/abs/2406.14558)]
 
 - [2024.06] CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement [**mocap**] [[project](https://core4d.github.io/)] [[paper](https://arxiv.org/pdf/2406.19353)][[code](https://github.com/leolyliu/CORE4D-Instructions)]
