@@ -85,8 +85,6 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
-- [2024.10] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [**IL**] [[github](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
-
 - [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**IL**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)] 
 
 - [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [**IL**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code(Learning)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][[code(Teleop)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
@@ -129,9 +127,12 @@ Collection System for Dexterous Manipulation [**IL**] [[project](https://dex-cap
 
 ### Dual-Arm Manipulation with Other End Effectors
 
+- [2024.10] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [**IL**] [[github](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
+
 - [2024.10] ALOHA Unleashed: A Simple Recipe for Robot Dexterity [**IL**] [[project](https://aloha-unleashed.github.io/)] [[paper](https://arxiv.org/abs/2410.13126)]
 
 - [2024.09] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [**VLM**] [[project](https://rekep-robot.github.io/)] [[paper](https://rekep-robot.github.io/rekep.pdf)][[code](https://github.com/huangwl18/ReKep)]
+- [2024.07] PerAct2: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks [**IL**] [[project](https://bimanual.github.io/)] [[paper](https://arxiv.org/abs/2407.00278)][[code](https://github.com/markusgrotz/peract_bimanual)]
 
 - [2024.01] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [**IL**] [[project](https://mobile-aloha.github.io/)] [[paper](http://arxiv.org/abs/2401.02117)][[code(learning)](https://github.com/MarkFzp/act-plus-plus)] [[code(hardware)](https://github.com/MarkFzp/mobile-aloha)]
 
