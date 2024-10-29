@@ -101,6 +101,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.06] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [**benchmark**] [[project](https://omni.human2humanoid.com/)] [[paper](https://arxiv.org/abs/2406.08858)] [[code](https://github.com/LeCAR-Lab/human2humanoid)]
 
+- [2024.04] Large Language Models for Orchestrating Bimanual Robots [**LLM**] [[paper](https://arxiv.org/abs/2404.02018)] [[website](https://labor-agent.github.io/)], [[code](https://github.com/Kchu/LABOR-Agent)]
+
 - [2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
 
