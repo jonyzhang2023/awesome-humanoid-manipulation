@@ -99,6 +99,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.06] HumanPlus: Humanoid Shadowing and Imitation from Humans [**IL**] [[project](https://humanoid-ai.github.io/)] [[paper](https://arxiv.org/abs/2406.10454)] [[code](https://github.com/MarkFzp/humanplus)]
 
+- [2024.06] Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [**VLM**] [[project](https://hy-motion.github.io/)] [[paper](https://arxiv.org/abs/2406.14655v1)] 
+
 - [2024.06] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [**benchmark**] [[project](https://omni.human2humanoid.com/)] [[paper](https://arxiv.org/abs/2406.08858)] [[code](https://github.com/LeCAR-Lab/human2humanoid)]
 
 - [2024.04] Large Language Models for Orchestrating Bimanual Robots [**LLM**] [[paper](https://arxiv.org/abs/2404.02018)] [[website](https://labor-agent.github.io/)], [[code](https://github.com/Kchu/LABOR-Agent)]
