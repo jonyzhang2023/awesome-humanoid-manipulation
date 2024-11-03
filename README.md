@@ -85,6 +85,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
+- [2024.10] EgoMimic: Scaling Imitation Learning via Egocentric Video [**IL**] [[project](https://egomimic.github.io/)] [[paper](https://arxiv.org/abs/2410.24221)] [[code](https://github.com/SimarKareer/EgoMimic)]
+
 - [2024.10] DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning [**IL**] [[project](https://dexmimicgen.github.io/#)] [[paper](https://arxiv.org/abs/2410.24185)] 
 
 - [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**IL**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)] 
