@@ -3,7 +3,7 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 
-A curated list of awesome papers and resources on **humanoid manipuation**, or humanoid robot-object interaction. This repo is inspired by [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning).
+A curated list of awesome papers and resources on **humanoid manipuation**, or upper-body humanoid robot learning. This repo is inspired by [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning).
 
 _Note_: We also included papers on the relevant topics: 
 
@@ -115,6 +115,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 <a name="BimanualDexterousMulti-FingeredManipulation" />
 
 ### Bimanual Dexterous Multi-Fingered Manipulation
+
+- [2024.11] Object-Centric Dexterous Manipulation from Human Motion Data [**RL**] [[project](https://cypypccpy.github.io/obj-dex.github.io/)] [[paper](https://arxiv.org/abs/2411.04005)]
 
 - [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
 
