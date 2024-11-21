@@ -137,7 +137,7 @@ Collection System for Dexterous Manipulation [**IL**] [[project](https://dex-cap
 
 ### Dual-Arm Manipulation with Other End Effectors
 
-- [2024.11]  [**RL**] [[paper](https://arxiv.org/abs/2411.13020)] [[project](https://sites.google.com/view/asymdex-2024/)]
+- [2024.11] AsymDex: Leveraging Asymmetry and Relative Motion in Learning Bimanual Dexterity [**RL**] [[paper](https://arxiv.org/abs/2411.13020)] [[project](https://sites.google.com/view/asymdex-2024/)]
 
 - [2024.10] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [**IL**] [[github](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
 
