@@ -116,6 +116,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Bimanual Dexterous Multi-Fingered Manipulation
 
+- [2024.11] Bimanual Dexterity for Complex Tasks [**IL**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
+
 - [2024.11] Object-Centric Dexterous Manipulation from Human Motion Data [**RL**] [[project](https://cypypccpy.github.io/obj-dex.github.io/)] [[paper](https://arxiv.org/abs/2411.04005)]
 
 - [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
@@ -129,9 +131,6 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 - [2024.03] DexCap: Scalable and Portable Mocap Data
 Collection System for Dexterous Manipulation [**IL**] [[project](https://dex-cap.github.io/)] [[paper](https://arxiv.org/abs/2403.07788)][[code](https://github.com/j96w/DexCap)]
  
-- [CORL 2024] Bimanual Dexterity for Complex Tasks [**IL**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
-
-
 
 <a name="DualArmManipulationwithOtherEndEffectors" />
 
