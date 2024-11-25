@@ -111,6 +111,9 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
+- [2024.03] Bi-KVIL: Keypoints-based Visual Imitation Learning of 
+Bimanual Manipulation Tasks [**IL**] [[project](https://sites.google.com/view/bi-kvil)] [[paper](https://arxiv.org/abs/2403.03270)] [[code](https://github.com/wyngjf/bi-kvil-pub)]
+
 
 <a name="BimanualDexterousMulti-FingeredManipulation" />
 
