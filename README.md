@@ -75,6 +75,12 @@ CORL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applicatio
 
 Lerobot [[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot)]
 
+<a name="Packages" />
+
+## Packages
+
+Rofunc [[Rofunc: The Full Process Python Package for Robot Learning from Demonstration and Robot Manipulation] [[pkg](https://github.com/Skylark0924/Rofunc)] [[doc](https://rofunc.readthedocs.io/en/latest/)]
+
 <a name="Papers" />
 
 ## Papers
