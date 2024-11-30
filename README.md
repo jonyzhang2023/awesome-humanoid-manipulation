@@ -115,6 +115,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.04] Large Language Models for Orchestrating Bimanual Robots [**LLM**] [[paper](https://arxiv.org/abs/2404.02018)] [[website](https://labor-agent.github.io/)], [[code](https://github.com/Kchu/LABOR-Agent)]
 
+- [2024.04] Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer [**RL**] [**benchmark**] [[paper](https://arxiv.org/abs/2404.05695)] [[website](https://sites.google.com/view/humanoid-gym/)], [[code](https://github.com/roboterax/humanoid-gym)]
+
 - [2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
 - [2024.03] Bi-KVIL: Keypoints-based Visual Imitation Learning of 
