@@ -14,17 +14,20 @@ _Note_: We also included papers on the relevant topics:
 ---
 
 ## Contents
-- [Humanoid Models](#Models)
-  - [Humanoids](#Humanoids)
-  - [Dexterous Hands](#DexterousHands)
-  - [Dual-Arm Robots](#DualArmRobots)
-- [Workshops](#Workshops)
-- [Projects](#Projects)
-- [Papers](#Papers)
-  - [Humanoid Robot Manipulation](#HumanoidRobotManipulation)
-  - [Bimanual Dexterous Multi-Fingered Manipulation](#BimanualDexterousMulti-FingeredManipulation)
-  - [Dual-Arm Manipulation with Other End Effectors](#DualArmManipulationwithOtherEndEffectors)
-  - [Physically Simulated HOI Animations](#PhysicallySimulatedHumanoidAnimations)
+- [awesome-humanoid-manipulation](#awesome-humanoid-manipulation)
+  - [Contents](#contents)
+  - [Robot Models](#robot-models)
+    - [Humanoids](#humanoids)
+    - [Dexterous Hands](#dexterous-hands)
+    - [Dual-Arm Robots](#dual-arm-robots)
+  - [Workshops](#workshops)
+  - [Projects](#projects)
+  - [Packages](#packages)
+  - [Papers](#papers)
+    - [Humanoid Robot Manipulation](#humanoid-robot-manipulation)
+    - [Bimanual Dexterous Multi-Fingered Manipulation](#bimanual-dexterous-multi-fingered-manipulation)
+    - [Dual-Arm Manipulation with Other End Effectors](#dual-arm-manipulation-with-other-end-effectors)
+    - [Physically Simulated Humanoid Animations and Digital Human-Object Interaction](#physically-simulated-humanoid-animations-and-digital-human-object-interaction)
 
 
 <a name="Models" />
@@ -78,8 +81,9 @@ Lerobot [[LeRobot: State-of-the-art AI for real-world robotics](https://github.c
 <a name="Packages" />
 
 ## Packages
+### Rofunc
 
-Rofunc [[Rofunc: The Full Process Python Package for Robot Learning from Demonstration and Robot Manipulation] [[pkg](https://github.com/Skylark0924/Rofunc)] [[doc](https://rofunc.readthedocs.io/en/latest/)]
+Rofunc: The Full Process Python Package for Robot Learning from Demonstration and Robot Manipulation [[pkg](https://github.com/Skylark0924/Rofunc)] [[doc](https://rofunc.readthedocs.io/en/latest/)]
 
 <a name="Papers" />
 
