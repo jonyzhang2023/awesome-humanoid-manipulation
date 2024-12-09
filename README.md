@@ -131,6 +131,8 @@ Bimanual Manipulation Tasks [**IL**] [[project](https://sites.google.com/view/bi
 
 ### Bimanual Dexterous Multi-Fingered Manipulation
 
+- [2024.12] GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities [**Dataset**] [[project](https://ivl.cs.brown.edu/research/gigahands.html)] [[paper](https://www.arxiv.org/abs/2412.04244)]
+
 - [2024.11] Bimanual Dexterity for Complex Tasks [**IL**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
 
 - [2024.11] Object-Centric Dexterous Manipulation from Human Motion Data [**RL**] [[project](https://cypypccpy.github.io/obj-dex.github.io/)] [[paper](https://arxiv.org/abs/2411.04005)]
