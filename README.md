@@ -97,6 +97,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
+- [2024.12] ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning [**Benchmark**]  [[project](https://mimicking-bench.github.io/)] [[paper](https://arxiv.org/abs/2412.17730)] 
+
 - [2024.12] ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning [**IL**] [**MP**] [[paper](https://arxiv.org/abs/2412.00396)] 
 
 - [2024.12] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [**RL**] [[project](https://mobile-tv.github.io/)] [[paper](https://arxiv.org/abs/2412.07773)] [[code](https://github.com/OpenTeleVision/TeleVision)]
