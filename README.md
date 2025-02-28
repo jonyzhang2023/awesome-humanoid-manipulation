@@ -97,7 +97,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
-- [2025.02] Dexterous Safe Control for Humanoids in Cluttered Environments via Projected Safe Set Algorithm [**Control**]  [[paper](https://arxiv.org/abs/2502.02858)]  
+- [2025.02] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [**RL**]  [[paper](https://arxiv.org/abs/2502.20396)]  
+- [2025.02] Dexterous Safe Control for Humanoids in Cluttered Environments via Projected Safe Set Algorithm [**Control**] [[project](https://toruowo.github.io/recipe/)] [[paper](https://arxiv.org/abs/2502.02858)]  
 
 - [2024.12] Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking [**Benchmark**]  [[project](https://mimicking-bench.github.io/)] [[paper](https://arxiv.org/abs/2412.17730)] 
 
