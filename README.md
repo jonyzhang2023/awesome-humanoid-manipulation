@@ -41,8 +41,10 @@ _Note_: We also included papers on the relevant topics:
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| H1-2 (preview) | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2), [Simplified URDF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | GR-1 | FFTAI | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/master/GRX/GR1), [MJCF](https://github.com/FFTAI/wiki-mjcf/) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
+| Atlas v4 | Boston Dynamics | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl/tree/main/urdf) | ✖️ | ✔️ | ✔️ | ✔️ |
 
 <a name="DexterousHands" />
@@ -97,7 +99,14 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
-- [2025.02] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [**RL**]  [[paper](https://arxiv.org/abs/2502.20396)]  
+- [2025.03] Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions [[paper](https://arxiv.org/pdf/2503.12725)] [[project](https://surgie-humanoid.github.io/)] 
+
+- [2025.03] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
+
+- [2025.03] FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation [[paper](https://arxiv.org/pdf/2503.22249)] [[project](https://xianqi-zhang.github.io/FLAM/)]
+
+- [2025.02] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [**RL**]  [[paper](https://arxiv.org/abs/2502.20396)]
+- 
 - [2025.02] Dexterous Safe Control for Humanoids in Cluttered Environments via Projected Safe Set Algorithm [**Control**] [[project](https://toruowo.github.io/recipe/)] [[paper](https://arxiv.org/abs/2502.02858)]  
 
 - [2024.12] Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking [**Benchmark**]  [[project](https://mimicking-bench.github.io/)] [[paper](https://arxiv.org/abs/2412.17730)] 
